@@ -19,9 +19,9 @@ I am currently studying in American River College<br>I wish to work on some smal
 [![](https://visitcount.itsvg.in/api?id=Fern-the-ghost&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fern-the-ghost/fern-the-ghost/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fern-the-ghost/fern-the-ghost/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fern-the-ghost/fern-the-ghost/output/github-snake.svg" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

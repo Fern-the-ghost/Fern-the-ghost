@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying in American River College<br>I wish to work on some small projects to expand my knowledge with coding<br>I hope to get more help in understanding more coding languages <br>Fun Fact is that I own 3 geckos 
+I am currently studying in American River College and Sacramento State University<br>I wish to work on some small projects to expand my knowledge with coding<br>I hope to get more help in understanding more coding languages <br>Fun Fact is that I own 3 geckos 
 
 
 # 💻 Tech Stack:
